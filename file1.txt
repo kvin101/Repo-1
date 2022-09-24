@@ -16,3 +16,4 @@ Remote file modified
 modified
 
 Locally modified in line 18
+Remote modified in line 14
